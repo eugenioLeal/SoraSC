@@ -6,10 +6,9 @@
 ## Documentation Status
 
 ### Core Documentation
-- [ ] **README.md**
+- [x] **README.md**
   - [ ] Project overview
   - [ ] Installation instructions
-  - [ ] Quick start 
   - [ ] Example workflow
   - [ ] Basic command reference
   - [ ] License and contribution info
