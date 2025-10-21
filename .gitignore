@@ -1,4 +1,17 @@
 sora
 
-sora.dSYM
+# Xcode build products
+DerivedData/
+build/
+*.o
+*.out
+*.dSYM
 
+# Xcode user data
+*.xcuserdatad
+*.xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# macOS metadata
+.DS_Store
