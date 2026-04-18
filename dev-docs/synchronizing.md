@@ -12,5 +12,7 @@ We keep track of every file + file data and assign a unique hash
 
 When user synchronized team member changes (sora start)
 
+It pulls code from host url
 
+You can specify if you want to work on the main source of truth (mainline code) or the stable version of the code. 
 
